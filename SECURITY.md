@@ -1,9 +1,9 @@
-# Security Policy
+# Security Policy 🗝️
 
-## Supported Versions
+## Supported Versions ⌛
 
 PLZ use the latest version ⬇️
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability 🚨
 
-If you found a vulnerability, contact me at marccoding2001@gmail\[.\]com .
+If you found a vulnerability, contact me at marccoding2001@gmail\[.\]com 📞

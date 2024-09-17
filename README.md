@@ -1,11 +1,5 @@
 # Carrot 🥕
 
-Carrot is a symmetric encryption that is:
- - Strong 💪
- - Fast 🔥
- - Simple 😁
+Carrot is a symmetric encryption designed to be simple to implement ⭐
 
-It relies on SHAKE 256, XOR and One-Time Pad ⚙️
-
-Currently includes:
- - Carrot 256 👍
+Currently work in progress, but will release soon 😉
